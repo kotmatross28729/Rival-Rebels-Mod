@@ -1,0 +1,21 @@
+{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "${modId}",
+    "name": "${modName}",
+    "description": "Rival Rebels is a PvP war mod with powerful weapons",
+    "version": "${modVersion}",
+    "mcversion": "${minecraftVersion}",
+    "url": "rivalrebels.com",
+    "updateUrl": "rivalrebels.com/download",
+    "authorList": ["rodolphito"],
+    "credits": "rodolphito",
+    "logoFile": "assets/rivalrebels/textures/gui/h.png",
+    "screenshots": [],
+    "parent": "",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "useDependencyInformation": false
+  }]
+}
